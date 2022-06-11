@@ -1,0 +1,55 @@
+body{
+ background-color: #350b40;
+}
+.navbar{
+ letter-spacing: 1.5px;
+ width: 100%;
+ height: 77px;
+ background-color: #004B62;
+ font-weight: bold;
+ font-family: 'Livvic', sans-serif;
+}
+.navbar-collapse li{
+ list-style-type: none;
+}
+
+.dropdown{
+ right: 90px ;
+}
+
+.footer {
+ width: 100%;
+ height: 70px;
+ left: 0px;
+ margin-bottom: auto;
+ font-family: 'Livvic', sans-serif;
+ letter-spacing: 2px;
+ 
+}
+.footer h1{
+ text-align: center;
+ font-size: 24px;
+ align-items: center;
+ font-weight: bold;
+ margin-top: 20px;
+}
+.nama-sekolah{
+ font-family: 'Livvic', sans-serif;
+ font-weight: bolder;
+ line-height: 30px;
+}
+
+.button{
+ border: none;
+ border-radius: 10px;
+ width: 200px;
+ background-color: #004B62;
+ color: white;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 4px 2px;
+ cursor: pointer;
+}
